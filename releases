@@ -1,1 +1,11 @@
-
+[
+  {
+    "id": 1,
+    "tag": "v1.0.0",
+    "name": "¡Bienvenidos a ArgWOW!",
+    "body": "### ¡El reino ya está abierto!\n\nTe damos la bienvenida a la experiencia de **Wrath of the Lich King x5**.\n\n- Descarga nuestra APK.\n- Únete a nuestra comunidad de Discord.",
+    "url": "https://argwow.online",
+    "prerelease": false,
+    "publishedAt": "2026-09-04T12:00:00Z"
+  }
+]
